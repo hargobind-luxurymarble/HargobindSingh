@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://hargobind-marbles.com/</loc>
+    <loc>https://hargobindmarble.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/collection.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/collection.html?view=range&amp;filter=granite</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/collection.html?view=range&amp;filter=indian-marble</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/collection.html?view=range&amp;filter=italian-marble</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/collection.html?view=range&amp;filter=premium-luxury-marble</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/collection.html?view=range&amp;filter=travertine</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/collection.html?view=range&amp;filter=limestone</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/collection.html?view=colour</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/onyx.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/gallery.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/stone-carvings.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://hargobindmarble.com/stone-handicrafts.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
