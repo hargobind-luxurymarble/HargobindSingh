@@ -285,7 +285,7 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-05-02T03:21:32.717Z",
+  "generated": "2026-05-03T11:33:46.160Z",
   "stones": [
     {
       "id": "granite__black__Bagera-Black",
@@ -3614,48 +3614,6 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "premium-luxury-marble__Black__golden-portori",
-      "name": "Golden Portori",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Black",
-      "slab": "images/premium-luxury-marble/Black/golden portori.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Black/golden portori.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "premium-luxury-marble__Blue__verde-comet",
-      "name": "Verde Comet",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Blue",
-      "slab": "images/premium-luxury-marble/Blue/verde comet.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Blue/verde comet.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "premium-luxury-marble__Brown__bossa-nova",
-      "name": "Bossa Nova",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Brown",
-      "slab": "images/premium-luxury-marble/Brown/bossa nova.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Brown/bossa nova.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
       "id": "premium-luxury-marble__Brown__deep-river-I",
       "name": "Deep River I",
       "range": "premium-luxury-marble",
@@ -3740,34 +3698,6 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "premium-luxury-marble__Green__tanzanite-green",
-      "name": "Tanzanite Green",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Green",
-      "slab": "images/premium-luxury-marble/Green/tanzanite green.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Green/tanzanite green.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "premium-luxury-marble__Grey__Sky-Gold-I",
-      "name": "Sky Gold I",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Grey",
-      "slab": "images/premium-luxury-marble/Grey/Sky Gold I.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Grey/Sky Gold I.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
       "id": "premium-luxury-marble__Grey__Sky-Gold-II",
       "name": "Sky Gold II",
       "range": "premium-luxury-marble",
@@ -3791,20 +3721,6 @@ window.__CATALOG = {
       "images": [
         {
           "src": "images/premium-luxury-marble/Grey/Sky Gold III.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "premium-luxury-marble__Grey__aquarius",
-      "name": "Aquarius",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Grey",
-      "slab": "images/premium-luxury-marble/Grey/aquarius.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Grey/aquarius.jpeg",
           "tag": "Slab"
         }
       ]
@@ -3880,20 +3796,6 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "premium-luxury-marble__Grey__bianco-statua",
-      "name": "Bianco Statua",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Grey",
-      "slab": "images/premium-luxury-marble/Grey/bianco statua.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Grey/bianco statua.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
       "id": "premium-luxury-marble__Grey__caviar-gold-",
       "name": "Caviar Gold ",
       "range": "premium-luxury-marble",
@@ -3908,20 +3810,6 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "premium-luxury-marble__Grey__french-grey",
-      "name": "French Grey",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Grey",
-      "slab": "images/premium-luxury-marble/Grey/french grey.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Grey/french grey.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
       "id": "premium-luxury-marble__Grey__galapagos-I",
       "name": "Galapagos I",
       "range": "premium-luxury-marble",
@@ -3931,34 +3819,6 @@ window.__CATALOG = {
       "images": [
         {
           "src": "images/premium-luxury-marble/Grey/galapagos I.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "premium-luxury-marble__Grey__silk-grey",
-      "name": "Silk Grey",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Grey",
-      "slab": "images/premium-luxury-marble/Grey/silk grey.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Grey/silk grey.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "premium-luxury-marble__Grey__vienna-grey",
-      "name": "Vienna Grey",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Grey",
-      "slab": "images/premium-luxury-marble/Grey/vienna grey.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Grey/vienna grey.jpeg",
           "tag": "Slab"
         }
       ]
@@ -4034,20 +3894,6 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "premium-luxury-marble__White__Lembo-Beige-I",
-      "name": "Lembo Beige I",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "White",
-      "slab": "images/premium-luxury-marble/White/Lembo Beige I.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/White/Lembo Beige I.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
       "id": "premium-luxury-marble__White__Lembo-Beige-II",
       "name": "Lembo Beige II",
       "range": "premium-luxury-marble",
@@ -4118,20 +3964,6 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "premium-luxury-marble__White__dover-white",
-      "name": "Dover White",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "White",
-      "slab": "images/premium-luxury-marble/White/dover white.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/White/dover white.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
       "id": "premium-luxury-marble__White__fendi-blue-I",
       "name": "Fendi Blue I",
       "range": "premium-luxury-marble",
@@ -4155,20 +3987,6 @@ window.__CATALOG = {
       "images": [
         {
           "src": "images/premium-luxury-marble/White/fendi blue II.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "premium-luxury-marble__White__michael-angelo",
-      "name": "Michael Angelo",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "White",
-      "slab": "images/premium-luxury-marble/White/michael angelo.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/White/michael angelo.jpeg",
           "tag": "Slab"
         }
       ]
@@ -4244,20 +4062,6 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "premium-luxury-marble__Yellow__Blue-Aazur-III",
-      "name": "Blue Aazur III",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Yellow",
-      "slab": "images/premium-luxury-marble/Yellow/Blue Aazur III.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Yellow/Blue Aazur III.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
       "id": "premium-luxury-marble__Yellow__galapagos-II",
       "name": "Galapagos II",
       "range": "premium-luxury-marble",
@@ -4267,34 +4071,6 @@ window.__CATALOG = {
       "images": [
         {
           "src": "images/premium-luxury-marble/Yellow/galapagos II.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "premium-luxury-marble__Yellow__light-golden-emperador",
-      "name": "Light Golden Emperador",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Yellow",
-      "slab": "images/premium-luxury-marble/Yellow/light golden emperador.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Yellow/light golden emperador.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "premium-luxury-marble__Yellow__salvador",
-      "name": "Salvador",
-      "range": "premium-luxury-marble",
-      "rangeLabel": "Premium Luxury Marble",
-      "colour": "Yellow",
-      "slab": "images/premium-luxury-marble/Yellow/salvador.jpeg",
-      "images": [
-        {
-          "src": "images/premium-luxury-marble/Yellow/salvador.jpeg",
           "tag": "Slab"
         }
       ]
