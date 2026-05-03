@@ -285,7 +285,7 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-05-03T11:33:46.160Z",
+  "generated": "2026-05-03T16:34:16.175Z",
   "stones": [
     {
       "id": "granite__black__Bagera-Black",
@@ -1786,6 +1786,20 @@ window.__CATALOG = {
       ]
     },
     {
+      "id": "italian-marble__Brown__Coffe-Brown",
+      "name": "Coffe Brown Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Brown",
+      "slab": "images/italian-marble/Brown/Coffe Brown/Coffee Brown.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Brown/Coffe Brown/Coffee Brown.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
       "id": "italian-marble__Brown__Dark-Emperador",
       "name": "Dark Emperador Italian Marble",
       "range": "italian-marble",
@@ -1804,6 +1818,20 @@ window.__CATALOG = {
         {
           "src": "images/italian-marble/Brown/Dark Emperador/Dark Emperador3.jpeg",
           "tag": "Installed"
+        }
+      ]
+    },
+    {
+      "id": "italian-marble__Brown__Ombra-Di-Caravaggio",
+      "name": "Ombra Di Caravaggio Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Brown",
+      "slab": "images/italian-marble/Brown/Ombra Di Caravaggio/Ombra Di Caravaggio.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Brown/Ombra Di Caravaggio/Ombra Di Caravaggio.jpeg",
+          "tag": "Slab"
         }
       ]
     },
@@ -1849,6 +1877,34 @@ window.__CATALOG = {
       "images": [
         {
           "src": "images/italian-marble/Cream/Bianco/Bianco1.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "italian-marble__Grey__Albert-Grey",
+      "name": "Albert Grey Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Grey",
+      "slab": "images/italian-marble/Grey/Albert Grey/Albert Grey.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Grey/Albert Grey/Albert Grey.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "italian-marble__Grey__Alexander-Grey",
+      "name": "Alexander Grey Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Grey",
+      "slab": "images/italian-marble/Grey/Alexander Grey/Alexander Grey.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Grey/Alexander Grey/Alexander Grey.jpeg",
           "tag": "Slab"
         }
       ]
@@ -1927,6 +1983,20 @@ window.__CATALOG = {
       "images": [
         {
           "src": "images/italian-marble/Grey/Cristano Grey/Cristano Grey1.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "italian-marble__Grey__Era-grey",
+      "name": "Era Grey Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Grey",
+      "slab": "images/italian-marble/Grey/Era grey/Era Grey.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Grey/Era grey/Era Grey.jpeg",
           "tag": "Slab"
         }
       ]
@@ -2011,6 +2081,20 @@ window.__CATALOG = {
       "images": [
         {
           "src": "images/italian-marble/Grey/Grey William/Grey William1.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "italian-marble__Grey__Ice-Berg-Grey",
+      "name": "Ice Berg Grey Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Grey",
+      "slab": "images/italian-marble/Grey/Ice Berg Grey/Ice Berg Grey.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Grey/Ice Berg Grey/Ice Berg Grey.jpeg",
           "tag": "Slab"
         }
       ]
@@ -2172,6 +2256,20 @@ window.__CATALOG = {
       ]
     },
     {
+      "id": "italian-marble__Grey__Spanish-Grey",
+      "name": "Spanish Grey Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Grey",
+      "slab": "images/italian-marble/Grey/Spanish Grey/Spanish Grey.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Grey/Spanish Grey/Spanish Grey.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
       "id": "italian-marble__Grey__Sphiny-Grey",
       "name": "Sphiny Grey Italian Marble",
       "range": "italian-marble",
@@ -2208,6 +2306,34 @@ window.__CATALOG = {
       ]
     },
     {
+      "id": "italian-marble__Grey__Tundra-Grey",
+      "name": "Tundra Grey Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Grey",
+      "slab": "images/italian-marble/Grey/Tundra Grey/Tundra Grey.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Grey/Tundra Grey/Tundra Grey.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "italian-marble__Orange__Saran-Koli-Marble",
+      "name": "Saran Koli Marble Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Orange",
+      "slab": "images/italian-marble/Orange/Saran Koli Marble/Saran Koli Marble.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Orange/Saran Koli Marble/Saran Koli Marble.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
       "id": "italian-marble__Pink__Rosalia-Beige",
       "name": "Rosalia Beige Italian Marble",
       "range": "italian-marble",
@@ -2222,6 +2348,20 @@ window.__CATALOG = {
         {
           "src": "images/italian-marble/Pink/Rosalia Beige/Rosalia Beige2.jpeg",
           "tag": "Installed"
+        }
+      ]
+    },
+    {
+      "id": "italian-marble__Silver__Bohemia-Silver",
+      "name": "Bohemia Silver Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Multi",
+      "slab": "images/italian-marble/Silver/Bohemia Silver/Bohemia Silver.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Silver/Bohemia Silver/Bohemia Silver.jpeg",
+          "tag": "Slab"
         }
       ]
     },
