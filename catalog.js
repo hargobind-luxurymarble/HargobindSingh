@@ -285,7 +285,7 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-05-16T11:33:51.593Z",
+  "generated": "2026-05-26T06:24:27.026Z",
   "stones": [
     {
       "id": "granite__black__Bagera-Black",
@@ -2352,6 +2352,32 @@ window.__CATALOG = {
       ]
     },
     {
+      "id": "italian-marble__Pink__Rose-Breccia",
+      "name": "Rose Breccia Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Pink",
+      "slab": "images/italian-marble/Pink/Rose Breccia/Indian House Flooring.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Pink/Rose Breccia/Indian House Flooring.jpeg",
+          "tag": "Slab"
+        },
+        {
+          "src": "images/italian-marble/Pink/Rose Breccia/Living Room.jpeg",
+          "tag": "Installed"
+        },
+        {
+          "src": "images/italian-marble/Pink/Rose Breccia/Rest Room Area.jpeg",
+          "tag": "Installed"
+        },
+        {
+          "src": "images/italian-marble/Pink/Rose Breccia/Rose Breccia.jpeg",
+          "tag": "Installed"
+        }
+      ]
+    },
+    {
       "id": "italian-marble__Silver__Bohemia-Silver",
       "name": "Bohemia Silver Italian Marble",
       "range": "italian-marble",
@@ -3019,6 +3045,45 @@ window.__CATALOG = {
         {
           "src": "images/marble-handicrafts/diya/VI.jpeg",
           "tag": "VI"
+        }
+      ],
+      "isHandicraft": true
+    },
+    {
+      "id": "marble-handicrafts__Inlay-Vase",
+      "name": "Inlay Vase",
+      "range": "marble-handicrafts",
+      "rangeLabel": "Marble Handicraft",
+      "colour": "Multi",
+      "slab": "images/marble-handicrafts/Inlay Vase/24_ Marble Flower Vase Gemstone Inlay.jpg",
+      "images": [
+        {
+          "src": "images/marble-handicrafts/Inlay Vase/24_ Marble Flower Vase Gemstone Inlay.jpg",
+          "tag": "24  Marble Flower Vase Gemstone Inlay"
+        },
+        {
+          "src": "images/marble-handicrafts/Inlay Vase/Luxury White Marble Flower Vase Gemstone Inlay.jpg",
+          "tag": "Luxury White Marble Flower Vase Gemstone Inlay"
+        },
+        {
+          "src": "images/marble-handicrafts/Inlay Vase/Marble Flower Vase Lapis Floral Marquetry Inlay.jpg",
+          "tag": "Marble Flower Vase Lapis Floral Marquetry Inlay"
+        },
+        {
+          "src": "images/marble-handicrafts/Inlay Vase/White Marble Flower Vase, Jali Carving Pietradura Inlay.jpg",
+          "tag": "White Marble Flower Vase, Jali Carving Pietradura Inlay"
+        },
+        {
+          "src": "images/marble-handicrafts/Inlay Vase/White Marble Flower Vase, Jali Carving.jpg",
+          "tag": "White Marble Flower Vase, Jali Carving"
+        },
+        {
+          "src": "images/marble-handicrafts/Inlay Vase/White Marble Vase.jpg",
+          "tag": "White Marble Vase"
+        },
+        {
+          "src": "images/marble-handicrafts/Inlay Vase/White Marble.jpg",
+          "tag": "White Marble"
         }
       ],
       "isHandicraft": true
