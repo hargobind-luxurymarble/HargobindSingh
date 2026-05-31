@@ -285,7 +285,7 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-05-29T17:23:10.792Z",
+  "generated": "2026-05-31T04:44:25.328Z",
   "stones": [
     {
       "id": "granite__black__Bagera-Black",
@@ -3094,39 +3094,55 @@ window.__CATALOG = {
       "isHandicraft": true
     },
     {
-      "id": "marble-handicrafts__Inlay-Vase",
-      "name": "Inlay Vase",
+      "id": "marble-handicrafts__Inlay-marble-Vase",
+      "name": "Inlay Marble Vase",
       "range": "marble-handicrafts",
       "rangeLabel": "Marble Handicraft",
       "colour": "Multi",
-      "slab": "images/marble-handicrafts/Inlay Vase/24_ Marble Flower Vase Gemstone Inlay.jpg",
+      "slab": "images/marble-handicrafts/Inlay marble Vase/24_ Marble Flower Vase Gemstone Inlay.jpg",
       "images": [
         {
-          "src": "images/marble-handicrafts/Inlay Vase/24_ Marble Flower Vase Gemstone Inlay.jpg",
+          "src": "images/marble-handicrafts/Inlay marble Vase/24_ Marble Flower Vase Gemstone Inlay.jpg",
           "tag": "24  Marble Flower Vase Gemstone Inlay"
         },
         {
-          "src": "images/marble-handicrafts/Inlay Vase/Luxury White Marble Flower Vase Gemstone Inlay.jpg",
+          "src": "images/marble-handicrafts/Inlay marble Vase/I.jpeg",
+          "tag": "I"
+        },
+        {
+          "src": "images/marble-handicrafts/Inlay marble Vase/II.jpeg",
+          "tag": "II"
+        },
+        {
+          "src": "images/marble-handicrafts/Inlay marble Vase/III.jpeg",
+          "tag": "III"
+        },
+        {
+          "src": "images/marble-handicrafts/Inlay marble Vase/IV.jpeg",
+          "tag": "IV"
+        },
+        {
+          "src": "images/marble-handicrafts/Inlay marble Vase/Luxury White Marble Flower Vase Gemstone Inlay.jpg",
           "tag": "Luxury White Marble Flower Vase Gemstone Inlay"
         },
         {
-          "src": "images/marble-handicrafts/Inlay Vase/Marble Flower Vase Lapis Floral Marquetry Inlay.jpg",
+          "src": "images/marble-handicrafts/Inlay marble Vase/Marble Flower Vase Lapis Floral Marquetry Inlay.jpg",
           "tag": "Marble Flower Vase Lapis Floral Marquetry Inlay"
         },
         {
-          "src": "images/marble-handicrafts/Inlay Vase/White Marble Flower Vase, Jali Carving Pietradura Inlay.jpg",
+          "src": "images/marble-handicrafts/Inlay marble Vase/White Marble Flower Vase, Jali Carving Pietradura Inlay.jpg",
           "tag": "White Marble Flower Vase, Jali Carving Pietradura Inlay"
         },
         {
-          "src": "images/marble-handicrafts/Inlay Vase/White Marble Flower Vase, Jali Carving.jpg",
+          "src": "images/marble-handicrafts/Inlay marble Vase/White Marble Flower Vase, Jali Carving.jpg",
           "tag": "White Marble Flower Vase, Jali Carving"
         },
         {
-          "src": "images/marble-handicrafts/Inlay Vase/White Marble Vase.jpg",
+          "src": "images/marble-handicrafts/Inlay marble Vase/White Marble Vase.jpg",
           "tag": "White Marble Vase"
         },
         {
-          "src": "images/marble-handicrafts/Inlay Vase/White Marble.jpg",
+          "src": "images/marble-handicrafts/Inlay marble Vase/White Marble.jpg",
           "tag": "White Marble"
         }
       ],
@@ -3185,37 +3201,6 @@ window.__CATALOG = {
         },
         {
           "src": "images/marble-handicrafts/table-top/V.jpeg",
-          "tag": "V"
-        }
-      ],
-      "isHandicraft": true
-    },
-    {
-      "id": "marble-handicrafts__vase",
-      "name": "Vase",
-      "range": "marble-handicrafts",
-      "rangeLabel": "Marble Handicraft",
-      "colour": "Multi",
-      "slab": "images/marble-handicrafts/vase/I.jpeg",
-      "images": [
-        {
-          "src": "images/marble-handicrafts/vase/I.jpeg",
-          "tag": "I"
-        },
-        {
-          "src": "images/marble-handicrafts/vase/II.jpeg",
-          "tag": "II"
-        },
-        {
-          "src": "images/marble-handicrafts/vase/III.jpeg",
-          "tag": "III"
-        },
-        {
-          "src": "images/marble-handicrafts/vase/IV.jpeg",
-          "tag": "IV"
-        },
-        {
-          "src": "images/marble-handicrafts/vase/V.jpeg",
           "tag": "V"
         }
       ],
