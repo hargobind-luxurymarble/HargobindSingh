@@ -285,7 +285,7 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-05-26T06:24:27.026Z",
+  "generated": "2026-05-29T17:23:10.792Z",
   "stones": [
     {
       "id": "granite__black__Bagera-Black",
@@ -1882,6 +1882,24 @@ window.__CATALOG = {
       ]
     },
     {
+      "id": "italian-marble__Gold__Gold-Granite-with-Prominent-Dark",
+      "name": "Gold Granite With Prominent Dark Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Gold",
+      "slab": "images/italian-marble/Gold/Gold Granite with Prominent Dark/Front.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Gold/Gold Granite with Prominent Dark/Front.jpeg",
+          "tag": "Slab"
+        },
+        {
+          "src": "images/italian-marble/Gold/Gold Granite with Prominent Dark/Gold Granite with Prominent Dark.jpeg",
+          "tag": "Installed"
+        }
+      ]
+    },
+    {
       "id": "italian-marble__Grey__Albert-Grey",
       "name": "Albert Grey Italian Marble",
       "range": "italian-marble",
@@ -2252,6 +2270,32 @@ window.__CATALOG = {
         {
           "src": "images/italian-marble/Grey/Sonata Grey/Sonata Grey1.jpeg",
           "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "italian-marble__Grey__Sonata-Grey-Gold",
+      "name": "Sonata Grey Gold Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Grey",
+      "slab": "images/italian-marble/Grey/Sonata Grey Gold/Drawing Room.jpeg",
+      "images": [
+        {
+          "src": "images/italian-marble/Grey/Sonata Grey Gold/Drawing Room.jpeg",
+          "tag": "Slab"
+        },
+        {
+          "src": "images/italian-marble/Grey/Sonata Grey Gold/Living Room.jpeg",
+          "tag": "Installed"
+        },
+        {
+          "src": "images/italian-marble/Grey/Sonata Grey Gold/Sonata Grey Gold Marble.jpeg",
+          "tag": "Installed"
+        },
+        {
+          "src": "images/italian-marble/Grey/Sonata Grey Gold/View.jpeg",
+          "tag": "Installed"
         }
       ]
     },
