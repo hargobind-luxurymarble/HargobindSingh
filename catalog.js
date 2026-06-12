@@ -285,7 +285,7 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-05-31T04:44:25.328Z",
+  "generated": "2026-06-12T16:20:32.796Z",
   "stones": [
     {
       "id": "granite__black__Bagera-Black",
@@ -1641,14 +1641,18 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Black",
-      "slab": "images/italian-marble/Black/Black & Gold/Black & Gold1.jpeg",
+      "slab": "images/italian-marble/Black/Black & Gold/Armani Black.png",
       "images": [
         {
-          "src": "images/italian-marble/Black/Black & Gold/Black & Gold1.jpeg",
+          "src": "images/italian-marble/Black/Black & Gold/Armani Black.png",
           "tag": "Slab"
         },
         {
-          "src": "images/italian-marble/Black/Black & Gold/Black & Gold2.jpeg",
+          "src": "images/italian-marble/Black/Black & Gold/Black & Gold1.jpeg",
+          "tag": "Installed"
+        },
+        {
+          "src": "images/italian-marble/Black/Black & Gold/Black Markino Iren.png",
           "tag": "Installed"
         }
       ]
@@ -3025,35 +3029,35 @@ window.__CATALOG = {
       "range": "marble-handicrafts",
       "rangeLabel": "Marble Handicraft",
       "colour": "Multi",
-      "slab": "images/marble-handicrafts/bathroom-accessories/I.jpeg",
+      "slab": "images/marble-handicrafts/bathroom-accessories/Banswara Basin.jpeg",
       "images": [
         {
-          "src": "images/marble-handicrafts/bathroom-accessories/I.jpeg",
-          "tag": "I"
+          "src": "images/marble-handicrafts/bathroom-accessories/Banswara Basin.jpeg",
+          "tag": "Banswara Basin"
         },
         {
-          "src": "images/marble-handicrafts/bathroom-accessories/II.jpeg",
-          "tag": "II"
+          "src": "images/marble-handicrafts/bathroom-accessories/Black Markino WashBasin.jpeg",
+          "tag": "Black Markino WashBasin"
         },
         {
-          "src": "images/marble-handicrafts/bathroom-accessories/III.jpeg",
-          "tag": "III"
+          "src": "images/marble-handicrafts/bathroom-accessories/Italian Basin.jpeg",
+          "tag": "Italian Basin"
         },
         {
-          "src": "images/marble-handicrafts/bathroom-accessories/IV.jpeg",
-          "tag": "IV"
+          "src": "images/marble-handicrafts/bathroom-accessories/Satuario Basin.jpeg",
+          "tag": "Satuario Basin"
         },
         {
-          "src": "images/marble-handicrafts/bathroom-accessories/V.jpeg",
-          "tag": "V"
+          "src": "images/marble-handicrafts/bathroom-accessories/Satuario White Basin.jpeg",
+          "tag": "Satuario White Basin"
         },
         {
-          "src": "images/marble-handicrafts/bathroom-accessories/VI.jpeg",
-          "tag": "VI"
+          "src": "images/marble-handicrafts/bathroom-accessories/Tooth Brush Set.jpeg",
+          "tag": "Tooth Brush Set"
         },
         {
-          "src": "images/marble-handicrafts/bathroom-accessories/VII.jpeg",
-          "tag": "VII"
+          "src": "images/marble-handicrafts/bathroom-accessories/Vietname Basin.jpeg",
+          "tag": "Vietname Basin"
         }
       ],
       "isHandicraft": true
