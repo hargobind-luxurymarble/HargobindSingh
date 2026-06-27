@@ -285,7 +285,7 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-06-27T18:10:49.025Z",
+  "generated": "2026-06-27T19:00:20.883Z",
   "stones": [
     {
       "id": "granite__black__BLACK-PARADIZO",
