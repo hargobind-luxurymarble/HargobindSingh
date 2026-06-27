@@ -285,550 +285,186 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-06-12T16:20:32.796Z",
+  "generated": "2026-06-27T18:10:49.025Z",
   "stones": [
     {
-      "id": "granite__black__Bagera-Black",
-      "name": "Bagera Black",
+      "id": "granite__black__BLACK-PARADIZO",
+      "name": "BLACK PARADIZO",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Black",
-      "slab": "images/granite/black/Bagera Black.jpeg",
+      "slab": "images/granite/black/BLACK PARADIZO.png",
       "images": [
         {
-          "src": "images/granite/black/Bagera Black.jpeg",
+          "src": "images/granite/black/BLACK PARADIZO.png",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__black__Bagera-Plain",
-      "name": "Bagera Plain",
+      "id": "granite__black__KOTDA-LAPATRO",
+      "name": "KOTDA LAPATRO",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Black",
-      "slab": "images/granite/black/Bagera Plain.jpeg",
+      "slab": "images/granite/black/KOTDA LAPATRO.jpeg",
       "images": [
         {
-          "src": "images/granite/black/Bagera Plain.jpeg",
+          "src": "images/granite/black/KOTDA LAPATRO.jpeg",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__black__Black-Fish",
-      "name": "Black Fish",
+      "id": "granite__black__PEARL-BLACK",
+      "name": "PEARL BLACK",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Black",
-      "slab": "images/granite/black/Black Fish.jpeg",
+      "slab": "images/granite/black/PEARL BLACK.png",
       "images": [
         {
-          "src": "images/granite/black/Black Fish.jpeg",
+          "src": "images/granite/black/PEARL BLACK.png",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__black__Black-Markino",
-      "name": "Black Markino",
+      "id": "granite__black__RIVER-BLACK-BLUE-DOT",
+      "name": "RIVER BLACK BLUE DOT",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Black",
-      "slab": "images/granite/black/Black Markino.jpeg",
+      "slab": "images/granite/black/RIVER BLACK BLUE DOT.png",
       "images": [
         {
-          "src": "images/granite/black/Black Markino.jpeg",
+          "src": "images/granite/black/RIVER BLACK BLUE DOT.png",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__black__Black-Paradizo",
-      "name": "Black Paradizo",
+      "id": "granite__black__SNAKE-BLACK",
+      "name": "SNAKE BLACK",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Black",
-      "slab": "images/granite/black/Black Paradizo.jpeg",
+      "slab": "images/granite/black/SNAKE BLACK.png",
       "images": [
         {
-          "src": "images/granite/black/Black Paradizo.jpeg",
+          "src": "images/granite/black/SNAKE BLACK.png",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__black__Brijwad",
-      "name": "Brijwad",
+      "id": "granite__black__SOUTH-BLACK",
+      "name": "SOUTH BLACK",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Black",
-      "slab": "images/granite/black/Brijwad.jpeg",
+      "slab": "images/granite/black/SOUTH BLACK.jpeg",
       "images": [
         {
-          "src": "images/granite/black/Brijwad.jpeg",
+          "src": "images/granite/black/SOUTH BLACK.jpeg",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__black__Cross-Figure-Black",
-      "name": "Cross Figure Black",
+      "id": "granite__black__STAR-BLACK",
+      "name": "STAR BLACK",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Black",
-      "slab": "images/granite/black/Cross Figure Black.jpeg",
+      "slab": "images/granite/black/STAR BLACK.png",
       "images": [
         {
-          "src": "images/granite/black/Cross Figure Black.jpeg",
+          "src": "images/granite/black/STAR BLACK.png",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__black__Dusty-Rajasthan-Black",
-      "name": "Dusty Rajasthan Black",
+      "id": "granite__black__Z-BLACK",
+      "name": "Z BLACK",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Black",
-      "slab": "images/granite/black/Dusty Rajasthan Black.jpeg",
+      "slab": "images/granite/black/Z BLACK.png",
       "images": [
         {
-          "src": "images/granite/black/Dusty Rajasthan Black.jpeg",
+          "src": "images/granite/black/Z BLACK.png",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__black__Fish-Black-",
-      "name": "Fish Black ",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Fish Black .jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Fish Black .jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Forest-Black",
-      "name": "Forest Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Forest Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Forest Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Line-Black",
-      "name": "Line Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Line Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Line Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Magestic-Black-",
-      "name": "Magestic Black ",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Magestic Black .jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Magestic Black .jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Magestic",
-      "name": "Magestic",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Magestic.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Magestic.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Magic-Black",
-      "name": "Magic Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Magic Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Magic Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Markino-Black",
-      "name": "Markino Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Markino Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Markino Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Markino-Plain-Black",
-      "name": "Markino Plain Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Markino Plain Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Markino Plain Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Markino",
-      "name": "Markino",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Markino.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Markino.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Original-R-Black",
-      "name": "Original R Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Original R Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Original R Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Pearl-Black-LApatro",
-      "name": "Pearl Black LApatro",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Pearl Black LApatro.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Pearl Black LApatro.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Pearl-Black",
-      "name": "Pearl Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Pearl Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Pearl Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Pencil-Line-Markino-Cross-Figure",
-      "name": "Pencil Line Markino Cross Figure",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Pencil Line Markino Cross Figure.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Pencil Line Markino Cross Figure.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__R-Black-(Brown-Flower)",
-      "name": "R Black (Brown Flower)",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/R Black (Brown Flower).jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/R Black (Brown Flower).jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__R-Black-Blue-Dot",
-      "name": "R Black Blue Dot",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/R Black Blue Dot.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/R Black Blue Dot.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__R-Black",
-      "name": "R Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/R Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/R Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__River-Black",
-      "name": "River Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/River Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/River Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Smoked-Black",
-      "name": "Smoked Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Smoked Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Smoked Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Snake-Black",
-      "name": "Snake Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Snake Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Snake Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Star-Black",
-      "name": "Star Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Star Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Star Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Wave-Black",
-      "name": "Wave Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Wave Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Wave Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__black__Z-Black",
-      "name": "Z Black",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Black",
-      "slab": "images/granite/black/Z Black.jpeg",
-      "images": [
-        {
-          "src": "images/granite/black/Z Black.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__blue__Blue-Dot-Pearl",
-      "name": "Blue Dot Pearl",
+      "id": "granite__blue__BLUE-PEARL",
+      "name": "BLUE PEARL",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Blue",
-      "slab": "images/granite/blue/Blue Dot Pearl.jpeg",
+      "slab": "images/granite/blue/BLUE PEARL.png",
       "images": [
         {
-          "src": "images/granite/blue/Blue Dot Pearl.jpeg",
+          "src": "images/granite/blue/BLUE PEARL.png",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__blue__Blue-Pearl",
-      "name": "Blue Pearl",
+      "id": "granite__blue__LAVENDER-BLUE",
+      "name": "LAVENDER BLUE",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Blue",
-      "slab": "images/granite/blue/Blue Pearl.jpeg",
+      "slab": "images/granite/blue/LAVENDER BLUE.jpeg",
       "images": [
         {
-          "src": "images/granite/blue/Blue Pearl.jpeg",
+          "src": "images/granite/blue/LAVENDER BLUE.jpeg",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__blue__Ice-Blue",
-      "name": "Ice Blue",
+      "id": "granite__blue__ORIGINAL-BLUE-DOT",
+      "name": "ORIGINAL BLUE DOT",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Blue",
-      "slab": "images/granite/blue/Ice Blue.jpeg",
+      "slab": "images/granite/blue/ORIGINAL BLUE DOT.jpeg",
       "images": [
         {
-          "src": "images/granite/blue/Ice Blue.jpeg",
+          "src": "images/granite/blue/ORIGINAL BLUE DOT.jpeg",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__blue__Lavender-Blue-Lapatro",
-      "name": "Lavender Blue Lapatro",
+      "id": "granite__blue__SOUTH-VIZAD-BLUE",
+      "name": "SOUTH VIZAD BLUE",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Blue",
-      "slab": "images/granite/blue/Lavender Blue Lapatro.jpeg",
+      "slab": "images/granite/blue/SOUTH VIZAD BLUE.jpeg",
       "images": [
         {
-          "src": "images/granite/blue/Lavender Blue Lapatro.jpeg",
+          "src": "images/granite/blue/SOUTH VIZAD BLUE.jpeg",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__blue__Lavender-Blue",
-      "name": "Lavender Blue",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Blue",
-      "slab": "images/granite/blue/Lavender Blue.jpeg",
-      "images": [
-        {
-          "src": "images/granite/blue/Lavender Blue.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__blue__Original-Blue-Dot-I",
-      "name": "Original Blue Dot I",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Blue",
-      "slab": "images/granite/blue/Original Blue Dot I.jpeg",
-      "images": [
-        {
-          "src": "images/granite/blue/Original Blue Dot I.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__blue__Original-Blue-Dot-II",
-      "name": "Original Blue Dot II",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Blue",
-      "slab": "images/granite/blue/Original Blue Dot II.jpeg",
-      "images": [
-        {
-          "src": "images/granite/blue/Original Blue Dot II.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__blue__Sapphire-Blue",
-      "name": "Sapphire Blue",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Blue",
-      "slab": "images/granite/blue/Sapphire Blue.jpeg",
-      "images": [
-        {
-          "src": "images/granite/blue/Sapphire Blue.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__brown__Bagera-Brown",
-      "name": "Bagera Brown",
+      "id": "granite__brown__BBG",
+      "name": "BBG",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Brown",
-      "slab": "images/granite/brown/Bagera Brown.jpeg",
+      "slab": "images/granite/brown/BBG.jpeg",
       "images": [
         {
-          "src": "images/granite/brown/Bagera Brown.jpeg",
+          "src": "images/granite/brown/BBG.jpeg",
           "tag": "Slab"
         }
       ]
@@ -876,20 +512,6 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "granite__brown__Brown-River-Cross-Figure",
-      "name": "Brown River Cross Figure",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Brown",
-      "slab": "images/granite/brown/Brown River Cross Figure.jpeg",
-      "images": [
-        {
-          "src": "images/granite/brown/Brown River Cross Figure.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
       "id": "granite__brown__Brownie",
       "name": "Brownie",
       "range": "granite",
@@ -904,43 +526,43 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "granite__brown__Himalaya-Brown",
-      "name": "Himalaya Brown",
+      "id": "granite__brown__HIMALAYN-BROWN",
+      "name": "HIMALAYN BROWN",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Brown",
-      "slab": "images/granite/brown/Himalaya Brown.jpeg",
+      "slab": "images/granite/brown/HIMALAYN BROWN.png",
       "images": [
         {
-          "src": "images/granite/brown/Himalaya Brown.jpeg",
+          "src": "images/granite/brown/HIMALAYN BROWN.png",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__brown__Mudapple-Brown",
-      "name": "Mudapple Brown",
+      "id": "granite__brown__MUDAPPLE-BROWN",
+      "name": "MUDAPPLE BROWN",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Brown",
-      "slab": "images/granite/brown/Mudapple Brown.jpeg",
+      "slab": "images/granite/brown/MUDAPPLE BROWN.png",
       "images": [
         {
-          "src": "images/granite/brown/Mudapple Brown.jpeg",
+          "src": "images/granite/brown/MUDAPPLE BROWN.png",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__brown__Natural-Dunes-Original",
-      "name": "Natural Dunes Original",
+      "id": "granite__brown__NATURAL-DUNES",
+      "name": "NATURAL DUNES",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Brown",
-      "slab": "images/granite/brown/Natural Dunes Original.jpeg",
+      "slab": "images/granite/brown/NATURAL DUNES.png",
       "images": [
         {
-          "src": "images/granite/brown/Natural Dunes Original.jpeg",
+          "src": "images/granite/brown/NATURAL DUNES.png",
           "tag": "Slab"
         }
       ]
@@ -960,20 +582,6 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "granite__brown__Paradizo-Brown",
-      "name": "Paradizo Brown",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Brown",
-      "slab": "images/granite/brown/Paradizo Brown.jpeg",
-      "images": [
-        {
-          "src": "images/granite/brown/Paradizo Brown.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
       "id": "granite__brown__Paradizo-River",
       "name": "Paradizo River",
       "range": "granite",
@@ -988,43 +596,15 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "granite__brown__Pearl-Brown",
-      "name": "Pearl Brown",
+      "id": "granite__brown__SILKY-BROWN",
+      "name": "SILKY BROWN",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Brown",
-      "slab": "images/granite/brown/Pearl Brown.jpeg",
+      "slab": "images/granite/brown/SILKY BROWN.png",
       "images": [
         {
-          "src": "images/granite/brown/Pearl Brown.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__brown__River-Brown",
-      "name": "River Brown",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Brown",
-      "slab": "images/granite/brown/River Brown.jpeg",
-      "images": [
-        {
-          "src": "images/granite/brown/River Brown.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__brown__Silky-Brown",
-      "name": "Silky Brown",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Brown",
-      "slab": "images/granite/brown/Silky Brown.jpeg",
-      "images": [
-        {
-          "src": "images/granite/brown/Silky Brown.jpeg",
+          "src": "images/granite/brown/SILKY BROWN.png",
           "tag": "Slab"
         }
       ]
@@ -1053,6 +633,20 @@ window.__CATALOG = {
       "images": [
         {
           "src": "images/granite/brown/Smoke Brown II.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "granite__brown__TAN-BROWN",
+      "name": "TAN BROWN",
+      "range": "granite",
+      "rangeLabel": "Granite",
+      "colour": "Brown",
+      "slab": "images/granite/brown/TAN BROWN.jpeg",
+      "images": [
+        {
+          "src": "images/granite/brown/TAN BROWN.jpeg",
           "tag": "Slab"
         }
       ]
@@ -1100,43 +694,29 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "granite__green__Green-Apple",
-      "name": "Green Apple",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Green",
-      "slab": "images/granite/green/Green Apple.jpeg",
-      "images": [
-        {
-          "src": "images/granite/green/Green Apple.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__green__Green-Mist-Aka-Katni",
-      "name": "Green Mist Aka Katni",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Green",
-      "slab": "images/granite/green/Green Mist Aka Katni.jpeg",
-      "images": [
-        {
-          "src": "images/granite/green/Green Mist Aka Katni.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__grey__3D-Grey",
-      "name": "3D Grey",
+      "id": "granite__grey__3D-GREY",
+      "name": "3D GREY",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Grey",
-      "slab": "images/granite/grey/3D Grey.jpeg",
+      "slab": "images/granite/grey/3D GREY.jpeg",
       "images": [
         {
-          "src": "images/granite/grey/3D Grey.jpeg",
+          "src": "images/granite/grey/3D GREY.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "granite__grey__OCEAN-PEARL",
+      "name": "OCEAN PEARL",
+      "range": "granite",
+      "rangeLabel": "Granite",
+      "colour": "Grey",
+      "slab": "images/granite/grey/OCEAN PEARL.png",
+      "images": [
+        {
+          "src": "images/granite/grey/OCEAN PEARL.png",
           "tag": "Slab"
         }
       ]
@@ -1170,29 +750,57 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "granite__pink__Cheema-Pink",
-      "name": "Cheema Pink",
+      "id": "granite__grey__STEEL-GREY-LAPATRO",
+      "name": "STEEL GREY LAPATRO",
       "range": "granite",
       "rangeLabel": "Granite",
-      "colour": "Pink",
-      "slab": "images/granite/pink/Cheema Pink.jpeg",
+      "colour": "Grey",
+      "slab": "images/granite/grey/STEEL GREY LAPATRO.jpeg",
       "images": [
         {
-          "src": "images/granite/pink/Cheema Pink.jpeg",
+          "src": "images/granite/grey/STEEL GREY LAPATRO.jpeg",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__red__Himalaya-Red",
-      "name": "Himalaya Red",
+      "id": "granite__grey__STEEL-GREY",
+      "name": "STEEL GREY",
+      "range": "granite",
+      "rangeLabel": "Granite",
+      "colour": "Grey",
+      "slab": "images/granite/grey/STEEL GREY.jpeg",
+      "images": [
+        {
+          "src": "images/granite/grey/STEEL GREY.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "granite__pink__CHEEMA-PINK",
+      "name": "CHEEMA PINK",
+      "range": "granite",
+      "rangeLabel": "Granite",
+      "colour": "Pink",
+      "slab": "images/granite/pink/CHEEMA PINK.png",
+      "images": [
+        {
+          "src": "images/granite/pink/CHEEMA PINK.png",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "granite__red__HIMALAYA-RED",
+      "name": "HIMALAYA RED",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "Red",
-      "slab": "images/granite/red/Himalaya Red.jpeg",
+      "slab": "images/granite/red/HIMALAYA RED.jpeg",
       "images": [
         {
-          "src": "images/granite/red/Himalaya Red.jpeg",
+          "src": "images/granite/red/HIMALAYA RED.jpeg",
           "tag": "Slab"
         }
       ]
@@ -1212,57 +820,71 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "granite__white__Balda-White",
-      "name": "Balda White",
+      "id": "granite__white__KG",
+      "name": "KG",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "White",
-      "slab": "images/granite/white/Balda White.jpeg",
+      "slab": "images/granite/white/KG.jpeg",
       "images": [
         {
-          "src": "images/granite/white/Balda White.jpeg",
+          "src": "images/granite/white/KG.jpeg",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__white__Kupam-White",
-      "name": "Kupam White",
+      "id": "granite__white__KUPAM-WHITE",
+      "name": "KUPAM WHITE",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "White",
-      "slab": "images/granite/white/Kupam White.jpeg",
+      "slab": "images/granite/white/KUPAM WHITE.jpeg",
       "images": [
         {
-          "src": "images/granite/white/Kupam White.jpeg",
+          "src": "images/granite/white/KUPAM WHITE.jpeg",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__white__Snow-White",
-      "name": "Snow White",
+      "id": "granite__white__KWG",
+      "name": "KWG",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "White",
-      "slab": "images/granite/white/Snow White.jpeg",
+      "slab": "images/granite/white/KWG.jpeg",
       "images": [
         {
-          "src": "images/granite/white/Snow White.jpeg",
+          "src": "images/granite/white/KWG.jpeg",
           "tag": "Slab"
         }
       ]
     },
     {
-      "id": "granite__white__Viscon-White-(Kuppam)",
-      "name": "Viscon White (Kuppam)",
+      "id": "granite__white__MWG",
+      "name": "MWG",
       "range": "granite",
       "rangeLabel": "Granite",
       "colour": "White",
-      "slab": "images/granite/white/Viscon White (Kuppam).jpeg",
+      "slab": "images/granite/white/MWG.jpeg",
       "images": [
         {
-          "src": "images/granite/white/Viscon White (Kuppam).jpeg",
+          "src": "images/granite/white/MWG.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "granite__white__SOUTH-MARIUM-WHITE",
+      "name": "SOUTH MARIUM WHITE",
+      "range": "granite",
+      "rangeLabel": "Granite",
+      "colour": "White",
+      "slab": "images/granite/white/SOUTH MARIUM WHITE.jpeg",
+      "images": [
+        {
+          "src": "images/granite/white/SOUTH MARIUM WHITE.jpeg",
           "tag": "Slab"
         }
       ]
@@ -1619,11 +1241,19 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Black",
-      "slab": "images/italian-marble/Black/Black/Black1.jpeg",
+      "slab": "images/italian-marble/Black/Black/ARMANI BLACK.png",
       "images": [
         {
-          "src": "images/italian-marble/Black/Black/Black1.jpeg",
+          "src": "images/italian-marble/Black/Black/ARMANI BLACK.png",
           "tag": "Slab"
+        },
+        {
+          "src": "images/italian-marble/Black/Black/Black Markino Iren.png",
+          "tag": "Installed"
+        },
+        {
+          "src": "images/italian-marble/Black/Black/Black1.jpeg",
+          "tag": "Installed"
         },
         {
           "src": "images/italian-marble/Black/Black/Black2.jpeg",
@@ -1649,10 +1279,6 @@ window.__CATALOG = {
         },
         {
           "src": "images/italian-marble/Black/Black & Gold/Black & Gold1.jpeg",
-          "tag": "Installed"
-        },
-        {
-          "src": "images/italian-marble/Black/Black & Gold/Black Markino Iren.png",
           "tag": "Installed"
         }
       ]
@@ -2024,6 +1650,20 @@ window.__CATALOG = {
       ]
     },
     {
+      "id": "italian-marble__Grey__Fossil-Grey",
+      "name": "Fossil Grey Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Grey",
+      "slab": "images/italian-marble/Grey/Fossil Grey/FOSSIL GREY.png",
+      "images": [
+        {
+          "src": "images/italian-marble/Grey/Fossil Grey/FOSSIL GREY.png",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
       "id": "italian-marble__Grey__Glacier-Grey",
       "name": "Glacier Grey Italian Marble",
       "range": "italian-marble",
@@ -2368,15 +2008,29 @@ window.__CATALOG = {
       ]
     },
     {
-      "id": "italian-marble__Orange__Saran-Koli-Marble",
-      "name": "Saran Koli Marble Italian Marble",
+      "id": "italian-marble__Orange__Alicant",
+      "name": "Alicant Italian Marble",
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Orange",
-      "slab": "images/italian-marble/Orange/Saran Koli Marble/Saran Koli Marble.jpeg",
+      "slab": "images/italian-marble/Orange/Alicant/ALICANT.png",
       "images": [
         {
-          "src": "images/italian-marble/Orange/Saran Koli Marble/Saran Koli Marble.jpeg",
+          "src": "images/italian-marble/Orange/Alicant/ALICANT.png",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "italian-marble__Orange__Saran-Coli",
+      "name": "Saran Coli Italian Marble",
+      "range": "italian-marble",
+      "rangeLabel": "Italian Marble",
+      "colour": "Orange",
+      "slab": "images/italian-marble/Orange/Saran Coli/SARAN COLI.png",
+      "images": [
+        {
+          "src": "images/italian-marble/Orange/Saran Coli/SARAN COLI.png",
           "tag": "Slab"
         }
       ]
@@ -3175,6 +2829,25 @@ window.__CATALOG = {
         {
           "src": "images/marble-handicrafts/modern-art/vietnam marble2.jpeg",
           "tag": "Vietnam Marble2"
+        }
+      ],
+      "isHandicraft": true
+    },
+    {
+      "id": "marble-handicrafts__Onyx-Vase",
+      "name": "Onyx Vase",
+      "range": "marble-handicrafts",
+      "rangeLabel": "Marble Handicraft",
+      "colour": "Multi",
+      "slab": "images/marble-handicrafts/Onyx Vase/Hand-Carved Natural Onyx Vase.jpg",
+      "images": [
+        {
+          "src": "images/marble-handicrafts/Onyx Vase/Hand-Carved Natural Onyx Vase.jpg",
+          "tag": "Hand Carved Natural Onyx Vase"
+        },
+        {
+          "src": "images/marble-handicrafts/Onyx Vase/Handcrafted Onyx Marble Vase.jpg",
+          "tag": "Handcrafted Onyx Marble Vase"
         }
       ],
       "isHandicraft": true
@@ -4049,6 +3722,34 @@ window.__CATALOG = {
       ]
     },
     {
+      "id": "premium-luxury-marble__Exotic-Collection__EXOTIC-COLLECTION",
+      "name": "Exotic Collection Premium Luxury Marble I",
+      "range": "premium-luxury-marble",
+      "rangeLabel": "Premium Luxury Marble",
+      "colour": "Multi",
+      "slab": "images/premium luxury marble/Exotic Collection/EXOTIC COLLECTION.png",
+      "images": [
+        {
+          "src": "images/premium luxury marble/Exotic Collection/EXOTIC COLLECTION.png",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "premium-luxury-marble__Exotic-Collection__Exotic-Marble",
+      "name": "Exotic Marble",
+      "range": "premium-luxury-marble",
+      "rangeLabel": "Premium Luxury Marble",
+      "colour": "Multi",
+      "slab": "images/premium luxury marble/Exotic Collection/Exotic Marble.jpeg",
+      "images": [
+        {
+          "src": "images/premium luxury marble/Exotic Collection/Exotic Marble.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
       "id": "premium-luxury-marble__Gold__santorini",
       "name": "Santorini",
       "range": "premium-luxury-marble",
@@ -4254,6 +3955,20 @@ window.__CATALOG = {
       "images": [
         {
           "src": "images/premium luxury marble/Red/rosso levanto II.jpeg",
+          "tag": "Slab"
+        }
+      ]
+    },
+    {
+      "id": "premium-luxury-marble__White__Exotic-Marble",
+      "name": "Exotic Marble",
+      "range": "premium-luxury-marble",
+      "rangeLabel": "Premium Luxury Marble",
+      "colour": "White",
+      "slab": "images/premium luxury marble/White/Exotic Marble.jpeg",
+      "images": [
+        {
+          "src": "images/premium luxury marble/White/Exotic Marble.jpeg",
           "tag": "Slab"
         }
       ]
@@ -4774,11 +4489,19 @@ window.__CATALOG = {
       "range": "satwario",
       "rangeLabel": "Statuario",
       "colour": "White",
-      "slab": "images/satwario/White/Premium/Satwario Premium1.jpeg",
+      "slab": "images/satwario/White/Premium/PREMIUM STATUARIO.png",
       "images": [
         {
-          "src": "images/satwario/White/Premium/Satwario Premium1.jpeg",
+          "src": "images/satwario/White/Premium/PREMIUM STATUARIO.png",
           "tag": "Slab"
+        },
+        {
+          "src": "images/satwario/White/Premium/Premium.png",
+          "tag": "Installed"
+        },
+        {
+          "src": "images/satwario/White/Premium/Satwario Premium1.jpeg",
+          "tag": "Installed"
         },
         {
           "src": "images/satwario/White/Premium/Satwario Premium10.jpeg",
