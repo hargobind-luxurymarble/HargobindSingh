@@ -285,7 +285,7 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-07-04T19:52:13.164Z",
+  "generated": "2026-07-06T18:30:44.691Z",
   "stones": [
     {
       "id": "granite__black__BLACK-PARADIZO",
@@ -717,34 +717,6 @@ window.__CATALOG = {
       "images": [
         {
           "src": "images/granite/grey/OCEAN PEARL.png",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__grey__Ocean-Pearl-I",
-      "name": "Ocean Pearl I",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Grey",
-      "slab": "images/granite/grey/Ocean Pearl I.jpeg",
-      "images": [
-        {
-          "src": "images/granite/grey/Ocean Pearl I.jpeg",
-          "tag": "Slab"
-        }
-      ]
-    },
-    {
-      "id": "granite__grey__Ocean-Pearl-II",
-      "name": "Ocean Pearl II",
-      "range": "granite",
-      "rangeLabel": "Granite",
-      "colour": "Grey",
-      "slab": "images/granite/grey/Ocean Pearl II.jpeg",
-      "images": [
-        {
-          "src": "images/granite/grey/Ocean Pearl II.jpeg",
           "tag": "Slab"
         }
       ]
@@ -1285,10 +1257,10 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Black",
-      "slab": "images/italian-marble/Black/Black Margino/Black Margino1.jpeg",
+      "slab": "images/italian-marble/Black/Black Margino/Black Markino.png",
       "images": [
         {
-          "src": "images/italian-marble/Black/Black Margino/Black Margino1.jpeg",
+          "src": "images/italian-marble/Black/Black Margino/Black Markino.png",
           "tag": "Slab"
         }
       ]
@@ -1299,14 +1271,14 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Black",
-      "slab": "images/italian-marble/Black/Golden Portoro/Golden Portoro1.jpeg",
+      "slab": "images/italian-marble/Black/Golden Portoro/G Portono.png",
       "images": [
         {
-          "src": "images/italian-marble/Black/Golden Portoro/Golden Portoro1.jpeg",
+          "src": "images/italian-marble/Black/Golden Portoro/G Portono.png",
           "tag": "Slab"
         },
         {
-          "src": "images/italian-marble/Black/Golden Portoro/Golden Portoro2.jpeg",
+          "src": "images/italian-marble/Black/Golden Portoro/Golden Portono.png",
           "tag": "Installed"
         }
       ]
@@ -1322,6 +1294,10 @@ window.__CATALOG = {
         {
           "src": "images/italian-marble/Black/Metal Vst/Metal Vst1.jpeg",
           "tag": "Slab"
+        },
+        {
+          "src": "images/italian-marble/Black/Metal Vst/SLAB.png",
+          "tag": "Installed"
         }
       ]
     },
@@ -1340,6 +1316,10 @@ window.__CATALOG = {
         {
           "src": "images/italian-marble/Black/Phantom Black/Phantom Black2.jpeg",
           "tag": "Installed"
+        },
+        {
+          "src": "images/italian-marble/Black/Phantom Black/Slab.png",
+          "tag": "Installed"
         }
       ]
     },
@@ -1349,11 +1329,15 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Black",
-      "slab": "images/italian-marble/Black/Rosso Martin/Rosso Martin1.jpeg",
+      "slab": "images/italian-marble/Black/Rosso Martin/Rosso Martin Slab.png",
       "images": [
         {
-          "src": "images/italian-marble/Black/Rosso Martin/Rosso Martin1.jpeg",
+          "src": "images/italian-marble/Black/Rosso Martin/Rosso Martin Slab.png",
           "tag": "Slab"
+        },
+        {
+          "src": "images/italian-marble/Black/Rosso Martin/Rosso Martin1.jpeg",
+          "tag": "Installed"
         },
         {
           "src": "images/italian-marble/Black/Rosso Martin/Rosso Martin2.jpeg",
@@ -1545,10 +1529,10 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Grey",
-      "slab": "images/italian-marble/Grey/Alexander Grey/Alexander Grey.jpeg",
+      "slab": "images/italian-marble/Grey/Alexander Grey/Alexander Grey.png",
       "images": [
         {
-          "src": "images/italian-marble/Grey/Alexander Grey/Alexander Grey.jpeg",
+          "src": "images/italian-marble/Grey/Alexander Grey/Alexander Grey.png",
           "tag": "Slab"
         }
       ]
@@ -1573,10 +1557,10 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Grey",
-      "slab": "images/italian-marble/Grey/Camouflage Marble/Camouflage Marble1.jpeg",
+      "slab": "images/italian-marble/Grey/Camouflage Marble/Camouflage Marble.png",
       "images": [
         {
-          "src": "images/italian-marble/Grey/Camouflage Marble/Camouflage Marble1.jpeg",
+          "src": "images/italian-marble/Grey/Camouflage Marble/Camouflage Marble.png",
           "tag": "Slab"
         }
       ]
@@ -1693,10 +1677,10 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Grey",
-      "slab": "images/italian-marble/Grey/Golden Brownz/Golden Brownz1.jpeg",
+      "slab": "images/italian-marble/Grey/Golden Brownz/Golden Brown.png",
       "images": [
         {
-          "src": "images/italian-marble/Grey/Golden Brownz/Golden Brownz1.jpeg",
+          "src": "images/italian-marble/Grey/Golden Brownz/Golden Brown.png",
           "tag": "Slab"
         }
       ]
@@ -1740,6 +1724,10 @@ window.__CATALOG = {
         {
           "src": "images/italian-marble/Grey/Grey William/Grey William1.jpeg",
           "tag": "Slab"
+        },
+        {
+          "src": "images/italian-marble/Grey/Grey William/William Slab.png",
+          "tag": "Installed"
         }
       ]
     },
@@ -1754,6 +1742,10 @@ window.__CATALOG = {
         {
           "src": "images/italian-marble/Grey/Ice Berg Grey/Ice Berg Grey.jpeg",
           "tag": "Slab"
+        },
+        {
+          "src": "images/italian-marble/Grey/Ice Berg Grey/Ice Berg.png",
+          "tag": "Installed"
         }
       ]
     },
@@ -1768,6 +1760,10 @@ window.__CATALOG = {
         {
           "src": "images/italian-marble/Grey/Karaman Grey/Karaman Grey1.jpeg",
           "tag": "Slab"
+        },
+        {
+          "src": "images/italian-marble/Grey/Karaman Grey/karaman.png",
+          "tag": "Installed"
         }
       ]
     },
@@ -1777,11 +1773,15 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Grey",
-      "slab": "images/italian-marble/Grey/Lady Grey/Lady Grey1.jpeg",
+      "slab": "images/italian-marble/Grey/Lady Grey/Lady G.png",
       "images": [
         {
-          "src": "images/italian-marble/Grey/Lady Grey/Lady Grey1.jpeg",
+          "src": "images/italian-marble/Grey/Lady Grey/Lady G.png",
           "tag": "Slab"
+        },
+        {
+          "src": "images/italian-marble/Grey/Lady Grey/Lady Grey1.jpeg",
+          "tag": "Installed"
         }
       ]
     },
@@ -2037,14 +2037,14 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Pink",
-      "slab": "images/italian-marble/Pink/Rosalia Beige/Rosalia Beige1.jpeg",
+      "slab": "images/italian-marble/Pink/Rosalia Beige/Rosalia Beige2.jpeg",
       "images": [
         {
-          "src": "images/italian-marble/Pink/Rosalia Beige/Rosalia Beige1.jpeg",
+          "src": "images/italian-marble/Pink/Rosalia Beige/Rosalia Beige2.jpeg",
           "tag": "Slab"
         },
         {
-          "src": "images/italian-marble/Pink/Rosalia Beige/Rosalia Beige2.jpeg",
+          "src": "images/italian-marble/Pink/Rosalia Beige/Rosalia Slab.png",
           "tag": "Installed"
         }
       ]
@@ -2081,10 +2081,10 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "Multi",
-      "slab": "images/italian-marble/Silver/Bohemia Silver/Bohemia Silver.jpeg",
+      "slab": "images/italian-marble/Silver/Bohemia Silver/Bohemia Silver.png",
       "images": [
         {
-          "src": "images/italian-marble/Silver/Bohemia Silver/Bohemia Silver.jpeg",
+          "src": "images/italian-marble/Silver/Bohemia Silver/Bohemia Silver.png",
           "tag": "Slab"
         }
       ]
@@ -2123,14 +2123,14 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "White",
-      "slab": "images/italian-marble/White/Lilac White/Lilac White1.jpeg",
+      "slab": "images/italian-marble/White/Lilac White/Lilac White2.jpeg",
       "images": [
         {
-          "src": "images/italian-marble/White/Lilac White/Lilac White1.jpeg",
+          "src": "images/italian-marble/White/Lilac White/Lilac White2.jpeg",
           "tag": "Slab"
         },
         {
-          "src": "images/italian-marble/White/Lilac White/Lilac White2.jpeg",
+          "src": "images/italian-marble/White/Lilac White/Lilac Whte.jpeg",
           "tag": "Installed"
         }
       ]
@@ -2173,10 +2173,10 @@ window.__CATALOG = {
       "range": "italian-marble",
       "rangeLabel": "Italian Marble",
       "colour": "White",
-      "slab": "images/italian-marble/White/Masti White/Masti White1.jpeg",
+      "slab": "images/italian-marble/White/Masti White/masti white.jpeg",
       "images": [
         {
-          "src": "images/italian-marble/White/Masti White/Masti White1.jpeg",
+          "src": "images/italian-marble/White/Masti White/masti white.jpeg",
           "tag": "Slab"
         }
       ]
@@ -3923,10 +3923,10 @@ window.__CATALOG = {
       "range": "satwario",
       "rangeLabel": "Statuario",
       "colour": "White",
-      "slab": "images/satwario/White/Angelo Golden Line/Angelo Golden Line1.jpeg",
+      "slab": "images/satwario/White/Angelo Golden Line/Angelo White.jpeg",
       "images": [
         {
-          "src": "images/satwario/White/Angelo Golden Line/Angelo Golden Line1.jpeg",
+          "src": "images/satwario/White/Angelo Golden Line/Angelo White.jpeg",
           "tag": "Slab"
         }
       ]
