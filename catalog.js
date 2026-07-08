@@ -285,7 +285,7 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-07-06T18:30:44.691Z",
+  "generated": "2026-07-08T09:02:56.275Z",
   "stones": [
     {
       "id": "granite__black__BLACK-PARADIZO",
@@ -3813,14 +3813,14 @@ window.__CATALOG = {
       "range": "satwario",
       "rangeLabel": "Statuario",
       "colour": "Black",
-      "slab": "images/satwario/Black/Nsl Black/Nsl Black1.jpeg",
+      "slab": "images/satwario/Black/Nsl Black/BLack NSL.png",
       "images": [
         {
-          "src": "images/satwario/Black/Nsl Black/Nsl Black1.jpeg",
+          "src": "images/satwario/Black/Nsl Black/BLack NSL.png",
           "tag": "Slab"
         },
         {
-          "src": "images/satwario/Black/Nsl Black/Nsl Black2.jpeg",
+          "src": "images/satwario/Black/Nsl Black/NSL BLACK.png",
           "tag": "Installed"
         },
         {
