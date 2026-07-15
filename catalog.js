@@ -285,7 +285,7 @@ const COLOUR_DOTS = {
 // DO NOT edit between the CATALOG_START and CATALOG_END markers.
 /* CATALOG_START */
 window.__CATALOG = {
-  "generated": "2026-07-08T09:08:43.621Z",
+  "generated": "2026-07-09T09:49:19.260Z",
   "stones": [
     {
       "id": "granite__black__BLACK-PARADIZO",
@@ -3813,30 +3813,30 @@ window.__CATALOG = {
       "range": "satwario",
       "rangeLabel": "Statuario",
       "colour": "Black",
-      "slab": "images/satwario/Black/Nsl Black/BLack NSL.png",
+      "slab": "images/satwario/Black/Nsl Black/BLACk.png",
       "images": [
         {
-          "src": "images/satwario/Black/Nsl Black/BLack NSL.png",
+          "src": "images/satwario/Black/Nsl Black/BLACk.png",
           "tag": "Slab"
+        },
+        {
+          "src": "images/satwario/Black/Nsl Black/BLack NSL.png",
+          "tag": "Installed"
+        },
+        {
+          "src": "images/satwario/Black/Nsl Black/NSL B.png",
+          "tag": "Installed"
         },
         {
           "src": "images/satwario/Black/Nsl Black/NSL BLACK.png",
           "tag": "Installed"
         },
         {
-          "src": "images/satwario/Black/Nsl Black/Nsl Black3.jpeg",
-          "tag": "Installed"
-        },
-        {
-          "src": "images/satwario/Black/Nsl Black/Nsl Black4.jpeg",
+          "src": "images/satwario/Black/Nsl Black/NSL.png",
           "tag": "Installed"
         },
         {
           "src": "images/satwario/Black/Nsl Black/Nsl Black5.jpeg",
-          "tag": "Installed"
-        },
-        {
-          "src": "images/satwario/Black/Nsl Black/Nsl Black6.jpeg",
           "tag": "Installed"
         }
       ]
